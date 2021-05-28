@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuaokuaishou.
 - 👀 I’m interested in Python and Deep Learning.
-- 🌱 I’m currently learning Module Construction.
+- 🌱 I’m currently learning Neural Network Construction.
 - 📫 You can reach me with email--yuaoupc@163.com
 
 <!---
